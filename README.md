@@ -1,1 +1,2 @@
-Now you know. And knowing is half the battle.
+#Now you know!
+#And knowing is half the battle.
